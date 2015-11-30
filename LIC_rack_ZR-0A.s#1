@@ -6066,13 +6066,6 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <label x="167.64" y="109.22" size="1.016" layer="95" font="vector" ratio="10" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="MODUL_RST" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="(PCINT29/OC1A)PD5"/>
-<wire x1="116.84" y1="76.2" x2="119.38" y2="76.2" width="0.1524" layer="91"/>
-<label x="119.38" y="76.2" size="1.016" layer="95" ratio="10" xref="yes"/>
-</segment>
-</net>
 </nets>
 </sheet>
 <sheet>
